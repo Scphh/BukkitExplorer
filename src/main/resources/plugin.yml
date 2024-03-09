@@ -1,0 +1,11 @@
+name: BukkitExplorer
+version: '${project.version}'
+main: org.sofie.bukkitexplorer.BukkitExplorer
+api-version: '1.20'
+
+commands:
+  bukkitexplorer:
+    description: Comando principal
+    aliases:
+      - be
+

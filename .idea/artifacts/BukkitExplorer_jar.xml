@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BukkitExplorer:jar">
+    <output-path>$USER_HOME$/Desktop/localhost2/plugins</output-path>
+    <root id="archive" name="BukkitExplorer.jar">
+      <element id="module-output" name="BukkitExplorer" />
+    </root>
+  </artifact>
+</component>
